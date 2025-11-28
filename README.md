@@ -1,10 +1,10 @@
-## Responsive Landing Page
+# Responsive Landing Page
 
 ## Overview  
 
 FlowTask is a responsive marketing landing page built using Next.js + Tailwind CSS, designed to showcase an AI-powered task management platform for teams.
 
-# Live Demo
+## Live Demo
 
 Check out the live site here:
 
